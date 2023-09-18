@@ -37,3 +37,15 @@ li {
     align-items: center; 
 
 }
+
+.gradient {
+    height: 100%;
+    width: 100%;
+    background-color: red;
+    background-image: linear-gradient(
+        to top right, 
+        red, #f06d06
+      );
+  }
+
+  
