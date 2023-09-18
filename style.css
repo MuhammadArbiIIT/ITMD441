@@ -9,3 +9,31 @@ html, body {
     width: 100%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
+
+  h1, h2{
+    text-align: center;
+    padding-top: 5%;
+    text-decoration:underline;
+}
+
+  p {
+    text-align: center;
+    color: white;
+  }
+
+  ul {
+    list-style: none; 
+    padding-left: 32%;
+}
+
+.ul1 {
+    list-style: none; 
+    padding-left: 38%;
+}
+
+li {
+    padding-left: 10px; 
+    display: flex; 
+    align-items: center; 
+
+}
